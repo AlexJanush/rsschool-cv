@@ -1,4 +1,5 @@
-# Aliaksandr Yanyshkevich
+# **Aliaksandr Yanyshkevich** 
+![avatar](/rsschool-cv/images/avatarka.png) 
 - **phone:** *+48794195279*
 - **discord(rs-school):** *@alexjanush*
 - **email:** *alexmarianush@gmail.com*
