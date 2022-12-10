@@ -12,6 +12,6 @@
 ---
 ### EDUCATIONS
 - **Physicist. Teacher of physics and computer science.**  
-***Computer simulation of physical processes*** *(specialization)*  
-*Yanka Kupala State University of Grodno (1996-2002)*
+***Computer simulation of physical processes*** *(specialization).*  
+*Yanka Kupala State University of Grodno (1996-2002).*
 ---
