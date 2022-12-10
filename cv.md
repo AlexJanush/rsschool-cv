@@ -19,3 +19,6 @@
 - *Adobe Photoshop, Adobe Lightroom, 3DLutCreator, i1Profiler*
 - *Microsoft Word, Excel*
 ---
+### LANGUAGES
+- *English - A1*
+- *Polish - A2*
