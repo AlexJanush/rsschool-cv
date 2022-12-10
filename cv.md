@@ -15,3 +15,7 @@
 ***Computer simulation of physical processes*** *(specialization).*  
 *Yanka Kupala State University of Grodno (1996-2002).*
 ---
+### ADDITIONAL SKILLS
+- *Adobe Photoshop, Adobe Lightroom, 3DLutCreator, i1Profiler*
+- *Microsoft Word, Excel*
+---
