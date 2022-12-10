@@ -1,4 +1,4 @@
-#Aliaksandr Yanyshkevich
+# Aliaksandr Yanyshkevich
 - **phone:** *+48794195279*
 - **discord(rs-school):** *@alexjanush*
 - **email:** *alexmarianush@gmail.com*
@@ -9,4 +9,9 @@
 ---
 ### WORK EXPERIENCE
 - *Potography and design in photo studios from 2002 to the present day.*
+---
+### EDUCATIONS
+- **Physicist. Teacher of physics and computer science.**
+***Computer simulation of physical processes*** *(specialization)*
+*Yanka Kupala State University of Grodno (1996-2002)*
 ---
