@@ -4,3 +4,6 @@
 - **email:** *alexmarianush@gmail.com*
 - **telegram:** *@alexjanush*
 ---
+### SUMMARY
+- *As a university student, I programmed in Pascal and Visual Basic, which I really liked. In addition to programming, I was interested in photography and design, with which most of my life is connected. But whenever I could better organize my work on the computer, I resorted to specialized scripting programs. Feeling the need for programming, I decided to resume studying programming, and I registered for computer courses. I am currently a student of the RS School JS/Front-end developer course.*
+---
